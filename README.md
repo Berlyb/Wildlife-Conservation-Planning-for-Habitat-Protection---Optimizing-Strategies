@@ -7,9 +7,11 @@ This project focuses on developing an optimization framework to maximize biodive
 Conserving biodiversity is critical for maintaining ecological balance. This project tackles the challenge of selecting the best conservation strategies within budget limits by leveraging:
 
 Stochastic Modeling: Simulating variability in costs and impacts across multiple scenarios.
+
 Scenario Reduction: Simplifying stochastic scenarios using clustering techniques.
+
 Optimization: Developing a mathematical model to maximize biodiversity impact while managing costs.
-Visualization: Creating interactive graphs to analyze cost vs. impact trade-offs and optimal strategies.
+
 
 🛠 Key Features
 Stochastic Scenario Generation
