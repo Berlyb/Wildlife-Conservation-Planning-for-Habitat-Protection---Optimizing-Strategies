@@ -3,6 +3,14 @@
 🌱 Biodiversity Conservation Optimization Project
 This project focuses on developing an optimization framework to maximize biodiversity impact while adhering to budget constraints over a 10-year period. The approach incorporates stochastic modeling, scenario reduction, and advanced optimization techniques.
 
+🧰 Technologies Used
+Python Libraries:
+pandas, numpy, matplotlib, seaborn, scikit-learn, gurobipy
+
+Tools:
+Gurobi Optimization Solver, Jupyter Notebooks
+
+
 🚀 Project Overview
 Conserving biodiversity is critical for maintaining ecological balance. This project tackles the challenge of selecting the best conservation strategies within budget limits by leveraging:
 
@@ -28,10 +36,4 @@ Pareto Front: Highlights trade-offs between cost and biodiversity impact.
 Optimal Strategies: Displays selected strategies based on the optimization model.
 Stochastic Impact: Explores variability in biodiversity impact across scenarios.
 
-🧰 Technologies Used
-Python Libraries:
-pandas, numpy, matplotlib, seaborn, scikit-learn, gurobipy
-
-Tools:
-Gurobi Optimization Solver, Jupyter Notebooks
 
